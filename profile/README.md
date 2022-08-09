@@ -5,7 +5,10 @@ The NMS community is varied, many different play styles and community rivalry ha
 Check out our [homepage][website]! <br />
 Want to join? [Click here to read how][join]!
 
+Open or read discussions [here][githubDiscuss] 🦜
+
 [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/no-status.svg)](https://github.com/NMSCD)
 
 [website]: https://nmscd.github.io?ref=nmscdGithub
 [join]: https://github.com/NMSCD/About#how-to-join?ref=nmscdGithub
+[githubDiscuss]: https://github.com/NMSCD/community/discussions
