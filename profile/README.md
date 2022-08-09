@@ -11,4 +11,4 @@ Open or read discussions [here][githubDiscuss] 🦜
 
 [website]: https://nmscd.github.io?ref=nmscdGithub
 [join]: https://github.com/NMSCD/About#how-to-join?ref=nmscdGithub
-[githubDiscuss]: https://github.com/NMSCD/community/discussions
+[githubDiscuss]: https://github.com/orgs/NMSCD/discussions
